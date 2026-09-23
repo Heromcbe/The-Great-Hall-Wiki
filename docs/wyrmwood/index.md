@@ -38,7 +38,7 @@ The [Community Rules](../network/community-rules.md) apply here, plus the game r
 ## In This Section
 
 - [Getting Started](getting-started.md)
-- [Server Settings](server-settings.md) *(coming soon)*
+- [Server Settings](server-settings.md)
 - [Creatures](creatures.md)
 - **Mods**
     - [Mods overview](mods/index.md)
