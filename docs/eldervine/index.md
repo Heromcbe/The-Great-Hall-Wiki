@@ -1,11 +1,12 @@
 # Eldervine
 
-Eldervine is our Hytale server.
+Eldervine is our Hytale server. It's a PvE community server, built around playing together, building together, and helping each other out. We run it on **Vanilla Settings**, so it plays just like standard Hytale with no mods.
 
 | | |
 |---|---|
 | **Game** | Hytale |
-| **Settings** | Vanilla Settings |
+| **Mode** | PvE |
+| **Settings** | Vanilla Settings (no mods) |
 | **Status** | Live |
 
 ## How to Join
@@ -35,9 +36,6 @@ These are PvE community servers built around playing and building together.
 ## In This Section
 
 - [FAQ](faq.md)
-
-!!! note "Work in progress"
-    We're building out this guide. Pages marked *Coming soon* are on the way.
 
 ---
 
