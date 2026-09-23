@@ -77,11 +77,88 @@ nav:
       - Troubleshooting: hub/troubleshooting.md
   - Honeydew Homes:
       - honeydew/index.md
+      - Getting Started: honeydew/getting-started.md
+      - World Map: honeydew/world-map.md
+      - Discord Link: honeydew/discord-link.md
+      - Returning to the Hub: honeydew/returning-to-hub.md
+      - Better on Bedrock Highlights:
+          - honeydew/bob-highlights/index.md
+          - Backpacks: honeydew/bob-highlights/backpacks.md
+          - Weapons & Armor: honeydew/bob-highlights/weapons-and-armor.md
+          - Upgrade Path: honeydew/bob-highlights/upgrade-path.md
+          - Ores & Materials: honeydew/bob-highlights/ores-and-materials.md
+          - Miner's Bench: honeydew/bob-highlights/miners-bench.md
+          - Bosses: honeydew/bob-highlights/bosses.md
+          - Structures: honeydew/bob-highlights/structures.md
+          - Merchants: honeydew/bob-highlights/merchants.md
+          - What's Turned Off: honeydew/bob-highlights/whats-turned-off.md
+      - HeroBoB+:
+          - honeydew/herobob-plus/index.md
+          - Forge Table:
+              - honeydew/herobob-plus/forge-table/index.md
+              - Forged Pickaxes: honeydew/herobob-plus/forge-table/forged-pickaxes.md
+              - Hot Metal: honeydew/herobob-plus/forge-table/hot-metal.md
+              - Enderite Upgrade: honeydew/herobob-plus/forge-table/enderite-upgrade.md
+          - Tools & Weapons:
+              - Corstinite: honeydew/herobob-plus/tools-and-weapons/corstinite.md
+              - Enderite: honeydew/herobob-plus/tools-and-weapons/enderite.md
+              - Firey: honeydew/herobob-plus/tools-and-weapons/firey.md
+          - Armor & Set Bonuses: honeydew/herobob-plus/armor-and-set-bonuses.md
+          - Spears: honeydew/herobob-plus/spears.md
+          - Enchantments:
+              - honeydew/herobob-plus/enchantments/index.md
+              - Leafy Liberator: honeydew/herobob-plus/enchantments/leafy-liberator.md
+              - Tree Capitator: honeydew/herobob-plus/enchantments/tree-capitator.md
+              - Auto Replant: honeydew/herobob-plus/enchantments/auto-replant.md
+              - Bane Spike: honeydew/herobob-plus/enchantments/bane-spike.md
+          - Trees & Saplings:
+              - honeydew/herobob-plus/trees-and-saplings/index.md
+              - Custom Saplings: honeydew/herobob-plus/trees-and-saplings/custom-saplings.md
+              - Poggy Trees: honeydew/herobob-plus/trees-and-saplings/poggy-trees.md
+              - Coconuts & Palms: honeydew/herobob-plus/trees-and-saplings/coconuts-and-palms.md
+              - Leaf Decay: honeydew/herobob-plus/trees-and-saplings/leaf-decay.md
+          - Recipes: honeydew/herobob-plus/recipes.md
+          - Durability Display: honeydew/herobob-plus/durability-display.md
+          - Bug Fixes: honeydew/herobob-plus/bug-fixes.md
+      - Hero Bosses:
+          - honeydew/hero-bosses/index.md
+      - FAQ: honeydew/faq.md
   - Aethelgard:
       - aethelgard/index.md
+      - Getting Started: aethelgard/getting-started.md
+      - Bedrock Players: aethelgard/bedrock-players.md
+      - Commands: aethelgard/commands.md
+      - Economy:
+          - aethelgard/economy/index.md
+          - Platinum: aethelgard/economy/platinum.md
+          - Taxes: aethelgard/economy/taxes.md
+      - Shops:
+          - aethelgard/shops/index.md
+          - Buying: aethelgard/shops/buying.md
+          - Running a Shop: aethelgard/shops/running-a-shop.md
+          - Trade Tokens: aethelgard/shops/trade-tokens.md
+      - Land Claims: aethelgard/land-claims.md
+      - Ranks & VIP: aethelgard/ranks-and-vip.md
+      - World & Biomes: aethelgard/world-and-biomes.md
+      - Live Map: aethelgard/live-map.md
+      - Discord Link: aethelgard/discord-link.md
+      - Returning to the Hub: aethelgard/returning-to-hub.md
+      - FAQ: aethelgard/faq.md
   - Wyrmwood (ARK):
       - wyrmwood/index.md
+      - Getting Started: wyrmwood/getting-started.md
+      - Server Settings: wyrmwood/server-settings.md
+      - Creatures: wyrmwood/creatures.md
+      - Mods:
+          - wyrmwood/mods/index.md
+          - TG Stacking: wyrmwood/mods/tg-stacking.md
+          - Super Spyglass: wyrmwood/mods/super-spyglass.md
+          - Super Cryo Storage: wyrmwood/mods/super-cryo-storage.md
+          - Cybers Structures QoL+: wyrmwood/mods/cybers-structures-qol.md
+      - FAQ: wyrmwood/faq.md
   - Eldervine (Hytale):
       - eldervine/index.md
+      - FAQ: eldervine/faq.md
   - Palveil (Palworld):
       - palveil/index.md
+      - FAQ: palveil/faq.md

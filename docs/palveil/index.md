@@ -32,8 +32,12 @@ These are PvE community servers built around playing and building together.
 - Mega builds are welcome, as long as they don't lag the server.
 - Builds shouldn't block paths or interfere with other players' gameplay.
 
-!!! note "More pages coming soon"
-    The full Palveil guide is being written.
+## In This Section
+
+- [FAQ](faq.md)
+
+!!! note "Work in progress"
+    We're building out this guide. Pages marked *Coming soon* are on the way.
 
 ---
 

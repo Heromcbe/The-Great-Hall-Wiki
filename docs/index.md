@@ -11,6 +11,9 @@ This wiki is the player guide for every server: how to get in, the rules, and ho
 
     [Join The Great Hall Discord](https://discord.gg/PNdRF6eg5j){ .md-button .md-button--primary }
 
+!!! note "Under construction"
+    This wiki is brand new and we're filling it in server by server. Pages marked *Coming soon* are on the way, so check back often.
+
 ## Our Servers
 
 <div class="grid cards" markdown>

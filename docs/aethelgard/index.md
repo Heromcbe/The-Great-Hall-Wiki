@@ -47,8 +47,23 @@ The [Community Rules](../network/community-rules.md) apply here, plus the game r
 - The Nether roof, End islands, and End cities are shared. Don't claim or block off big sections.
 - Don't destroy portals that aren't yours, and don't hog End city loot.
 
-!!! note "More pages coming soon"
-    The full Aethelgard guide is being written.
+## In This Section
+
+- [Getting Started](getting-started.md)
+- [Bedrock Players](bedrock-players.md)
+- [Commands](commands.md)
+- [Economy](economy/index.md)
+- [Shops](shops/index.md)
+- [Land Claims](land-claims.md)
+- [Ranks & VIP](ranks-and-vip.md)
+- [World & Biomes](world-and-biomes.md)
+- [Live Map](live-map.md)
+- [Discord Link](discord-link.md)
+- [Returning to the Hub](returning-to-hub.md)
+- [FAQ](faq.md)
+
+!!! note "Work in progress"
+    We're building out this guide. Pages marked *Coming soon* are on the way.
 
 ---
 

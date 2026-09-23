@@ -35,8 +35,16 @@ The [Community Rules](../network/community-rules.md) apply here, plus the game r
 - Don't loot other players' death bags unless they ask.
 - Boss fights are community events when possible. Coordinate in Discord.
 
-!!! note "More pages coming soon"
-    The full Wyrmwood guide is being written.
+## In This Section
+
+- [Getting Started](getting-started.md)
+- [Server Settings](server-settings.md)
+- [Creatures](creatures.md)
+- [Mods](mods/index.md)
+- [FAQ](faq.md)
+
+!!! note "Work in progress"
+    We're building out this guide. Pages marked *Coming soon* are on the way.
 
 ---
 
