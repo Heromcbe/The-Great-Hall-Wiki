@@ -18,7 +18,7 @@ This wiki is the player guide for every server: how to get in, the rules, and ho
 
 <div class="grid cards" markdown>
 
--   **The Great Hall Hub**
+-   **The Great Hall Hub (Java + Bedrock)**
 
     ---
 
@@ -26,7 +26,7 @@ This wiki is the player guide for every server: how to get in, the rules, and ho
 
     [Hub guide](hub/index.md)
 
--   **Honeydew Homes**
+-   **Honeydew Homes (Bedrock Only)**
 
     ---
 
@@ -34,7 +34,7 @@ This wiki is the player guide for every server: how to get in, the rules, and ho
 
     [Honeydew guide](honeydew/index.md)
 
--   **Aethelgard**
+-   **Aethelgard (Java + Bedrock)**
 
     ---
 

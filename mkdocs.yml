@@ -67,7 +67,7 @@ nav:
       - Staff & Enforcement: network/staff-and-enforcement.md
       - Inactivity Policy: network/inactivity.md
       - FAQ: network/faq.md
-  - Hub:
+  - Hub (Java + Bedrock):
       - hub/index.md
       - Joining on Bedrock & Console: hub/joining-bedrock.md
       - Joining on Java: hub/joining-java.md
@@ -75,7 +75,7 @@ nav:
       - Returning to the Hub: hub/returning-to-hub.md
       - How the Hub Works: hub/how-it-works.md
       - Troubleshooting: hub/troubleshooting.md
-  - Honeydew Homes:
+  - Honeydew Homes (Bedrock Only):
       - honeydew/index.md
       - Getting Started: honeydew/getting-started.md
       - World Map: honeydew/world-map.md
@@ -123,7 +123,7 @@ nav:
       - Hero Bosses:
           - honeydew/hero-bosses/index.md
       - FAQ: honeydew/faq.md
-  - Aethelgard:
+  - Aethelgard (Java + Bedrock):
       - aethelgard/index.md
       - Getting Started: aethelgard/getting-started.md
       - Bedrock Players: aethelgard/bedrock-players.md
