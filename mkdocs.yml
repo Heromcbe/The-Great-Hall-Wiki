@@ -1,0 +1,81 @@
+site_name: The Great Hall Wiki
+site_url: https://wiki.thegreathall.world/
+site_description: Player guide for The Great Hall game servers.
+copyright: The Great Hall
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: en
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - announce.dismiss
+
+extra:
+  discord_invite: https://discord.gg/PNdRF6eg5j
+  rules_pdf: https://github.com/Heromcbe/The-Great-Hall-Docs/blob/main/The_Great_Hall_Rules.pdf
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/PNdRF6eg5j
+      name: Join The Great Hall on Discord
+  generator: false
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Home:
+      - index.md
+      - Server Directory: network/server-directory.md
+      - Join the Discord: network/join-discord.md
+      - Community Rules: network/community-rules.md
+      - Staff & Enforcement: network/staff-and-enforcement.md
+      - Inactivity Policy: network/inactivity.md
+      - FAQ: network/faq.md
+  - Hub:
+      - hub/index.md
+  - Honeydew Homes:
+      - honeydew/index.md
+  - Aethelgard:
+      - aethelgard/index.md
+  - Wyrmwood (ARK):
+      - wyrmwood/index.md
+  - Eldervine (Hytale):
+      - eldervine/index.md
+  - Palveil (Palworld):
+      - palveil/index.md
