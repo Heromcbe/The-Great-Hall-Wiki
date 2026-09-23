@@ -5,6 +5,7 @@ Wyrmwood is our ARK: Survival Ascended server on the Ragnarok map. It's a small 
 | | |
 |---|---|
 | **Game** | ARK: Survival Ascended |
+| **Platform** | Crossplay (PC, Xbox, PlayStation) |
 | **Map** | Ragnarok |
 | **Mode** | PvE |
 | **Player cap** | 8 |

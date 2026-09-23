@@ -5,6 +5,7 @@ Palveil is our Palworld server. It's a PvE community server, built around playin
 | | |
 |---|---|
 | **Game** | Palworld |
+| **Platform** | Crossplay (PC, Xbox, PlayStation) |
 | **Mode** | PvE |
 | **Settings** | Vanilla Settings (no mods) |
 | **Status** | Live |
