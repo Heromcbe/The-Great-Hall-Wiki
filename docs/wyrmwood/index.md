@@ -20,7 +20,20 @@ Wyrmwood is our ARK: Survival Ascended server on the Ragnarok map. It's a small 
 
 ## Rules
 
-The [Community Rules](../network/community-rules.md) apply here. The [full rulebook (PDF)](https://github.com/Heromcbe/The-Great-Hall-Docs/blob/main/The_Great_Hall_Rules.pdf) is the official version.
+The [Community Rules](../network/community-rules.md) apply here, plus the game rules below. This is a summary of **Section 5** of the [full rulebook (PDF)](https://github.com/Heromcbe/The-Great-Hall-Docs/blob/main/The_Great_Hall_Rules.pdf), which is the official version.
+
+**Building & taming**
+
+- Don't block resources, spawn points, caves, or obelisks.
+- Clean up taming traps when you're done.
+- Keep your tame count reasonable. Too many dinos causes lag.
+- No building inside artifact caves.
+
+**PvE etiquette**
+
+- Don't lead wild dinos into someone's base on purpose.
+- Don't loot other players' death bags unless they ask.
+- Boss fights are community events when possible. Coordinate in Discord.
 
 !!! note "More pages coming soon"
     The full Wyrmwood guide is being written.

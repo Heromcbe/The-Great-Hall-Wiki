@@ -1,10 +1,12 @@
 # Inactivity Policy
 
-We keep an eye on activity so our servers stay current.
+We run regular inactivity checks to keep our player list accurate.
 
-- Staff review activity reports every **Friday**.
-- After **60 days** of inactivity, your server roles are removed.
-- If your roles were removed and you want to come back, just ask in the Discord.
+- If you've been inactive for **60 days** across both Discord and the game servers, your roles may be removed.
+- **This isn't a ban.** Just reach out to staff to get back in.
+- Server Admins and Head Admins are exempt.
+
+Full details are in Section 3.4 of the [rulebook (PDF)](https://github.com/Heromcbe/The-Great-Hall-Docs/blob/main/The_Great_Hall_Rules.pdf).
 
 ---
 

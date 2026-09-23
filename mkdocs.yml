@@ -69,6 +69,12 @@ nav:
       - FAQ: network/faq.md
   - Hub:
       - hub/index.md
+      - Joining on Bedrock & Console: hub/joining-bedrock.md
+      - Joining on Java: hub/joining-java.md
+      - Server Select NPCs: hub/server-select.md
+      - Returning to the Hub: hub/returning-to-hub.md
+      - How the Hub Works: hub/how-it-works.md
+      - Troubleshooting: hub/troubleshooting.md
   - Honeydew Homes:
       - honeydew/index.md
   - Aethelgard:

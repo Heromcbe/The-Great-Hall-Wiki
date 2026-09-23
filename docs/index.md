@@ -1,6 +1,10 @@
 # Welcome to The Great Hall
 
-The Great Hall is a multi-game community with servers for Minecraft, ARK: Survival Ascended, Hytale, and Palworld. This wiki is the player guide for every server: how to get in, the rules, and how everything works once you're there.
+The Great Hall is a gaming community that spans Minecraft, ARK: Survival Ascended, Hytale, and Palworld, all tied together by one central Discord. We're not a mega-server chasing thousands of players. We're a smaller group that actually plays together, helps each other out, and keeps things chill.
+
+Every server is self-hosted and run by volunteers. We're **not pay-to-win**, and never will be: VIP status and premium content are earned through gameplay, never bought.
+
+This wiki is the player guide for every server: how to get in, the rules, and how everything works once you're there.
 
 !!! tip "New here? Start with Discord"
     Every server is accessed through our Discord. Join, complete onboarding, and you'll get everything you need to connect.

@@ -9,8 +9,12 @@ Discord is the only way into The Great Hall's servers. Every server is whitelist
 1. **Join the Discord** using the link above.
 2. **Complete onboarding.** Our bot, HeroBridge, walks you through it and opens an onboarding ticket for you.
 3. **Choose your server(s).** Tell us which games you want to play.
-4. **Get your details.** Your ticket has everything you need to connect: addresses, passwords, and any setup steps.
-5. **Read the rules.** You're expected to have read the [full rulebook](https://github.com/Heromcbe/The-Great-Hall-Docs/blob/main/The_Great_Hall_Rules.pdf) before you join a server.
+4. **Wait for staff review.** Staff review every application. It usually doesn't take long, but please be patient.
+5. **Get your details.** Your ticket has everything you need to connect: addresses, passwords, and any setup steps.
+6. **Read the rules.** You're expected to have read the [full rulebook](https://github.com/Heromcbe/The-Great-Hall-Docs/blob/main/The_Great_Hall_Rules.pdf) before you join a server.
+
+!!! info "Your Discord is your key"
+    Your game access is linked to your Discord account. If you leave the Discord or are banned from it, your game access is removed too.
 
 !!! warning "Keep your details private"
     Connection details and passwords in your ticket are for you only. Don't share them outside the Discord.
