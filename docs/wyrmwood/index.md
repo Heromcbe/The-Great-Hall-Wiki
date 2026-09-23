@@ -1,6 +1,6 @@
 # Wyrmwood
 
-Wyrmwood is our ARK: Survival Ascended server on the Ragnarok map. It's a small PvE server with quality-of-life mods.
+Wyrmwood is our ARK: Survival Ascended server on the Ragnarok map. It's a small PvE server for up to 8 players, with quality-of-life mods that cut down the grind and bonus creatures you won't normally find on Ragnarok.
 
 | | |
 |---|---|
@@ -8,7 +8,7 @@ Wyrmwood is our ARK: Survival Ascended server on the Ragnarok map. It's a small 
 | **Map** | Ragnarok |
 | **Mode** | PvE |
 | **Player cap** | 8 |
-| **Mods** | Quality-of-life mods, downloaded automatically when you join |
+| **Mods** | [7 quality-of-life mods](mods/index.md), downloaded automatically when you join |
 | **Status** | Live |
 
 ## How to Join
@@ -38,13 +38,17 @@ The [Community Rules](../network/community-rules.md) apply here, plus the game r
 ## In This Section
 
 - [Getting Started](getting-started.md)
-- [Server Settings](server-settings.md)
+- [Server Settings](server-settings.md) *(coming soon)*
 - [Creatures](creatures.md)
-- [Mods](mods/index.md)
+- **Mods**
+    - [Mods overview](mods/index.md)
+    - [TG Stacking Mod 10000-90](mods/tg-stacking.md)
+    - [Super Spyglass Plus](mods/super-spyglass-plus.md)
+    - [Auto Engrams!](mods/auto-engrams.md)
+    - [Cybers Structures QoL+](mods/cybers-structures.md)
+    - [Arkitect Structures Remastered](mods/arkitect-structures.md)
+    - [Super Cryo Storage](mods/super-cryo-storage.md)
 - [FAQ](faq.md)
-
-!!! note "Work in progress"
-    We're building out this guide. Pages marked *Coming soon* are on the way.
 
 ---
 

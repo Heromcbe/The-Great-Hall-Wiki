@@ -151,10 +151,12 @@ nav:
       - Creatures: wyrmwood/creatures.md
       - Mods:
           - wyrmwood/mods/index.md
-          - TG Stacking: wyrmwood/mods/tg-stacking.md
-          - Super Spyglass: wyrmwood/mods/super-spyglass.md
+          - TG Stacking Mod 10000-90: wyrmwood/mods/tg-stacking.md
+          - Super Spyglass Plus: wyrmwood/mods/super-spyglass-plus.md
+          - Auto Engrams!: wyrmwood/mods/auto-engrams.md
+          - Cybers Structures QoL+: wyrmwood/mods/cybers-structures.md
+          - Arkitect Structures Remastered: wyrmwood/mods/arkitect-structures.md
           - Super Cryo Storage: wyrmwood/mods/super-cryo-storage.md
-          - Cybers Structures QoL+: wyrmwood/mods/cybers-structures-qol.md
       - FAQ: wyrmwood/faq.md
   - Eldervine (Hytale):
       - eldervine/index.md
