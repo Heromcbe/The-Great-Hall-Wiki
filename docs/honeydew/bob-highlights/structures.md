@@ -1,6 +1,9 @@
 # Structures
 
-!!! info "Coming soon"
-    This page is being written. It will cover the structures you can find on Honeydew.
+Better on Bedrock adds villages, ruins, towers, dungeons, and other structures with their own loot.
 
-    Questions in the meantime? Ask in the [Discord](https://discord.gg/PNdRF6eg5j).
+Honeydew is a big world, about 17,000 × 17,000 blocks, with plenty of structures out there to find and explore. The [live map](https://heromcbe.github.io/Honeydew-Homes-SMP) can help you scout.
+
+---
+
+*Last verified: 2026-09-28*

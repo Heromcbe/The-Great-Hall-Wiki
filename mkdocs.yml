@@ -58,6 +58,9 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
+exclude_docs: |
+  honeydew/bob-highlights/whats-turned-off.md
+
 nav:
   - Home:
       - index.md
@@ -91,7 +94,6 @@ nav:
           - Bosses: honeydew/bob-highlights/bosses.md
           - Structures: honeydew/bob-highlights/structures.md
           - Merchants: honeydew/bob-highlights/merchants.md
-          - What's Turned Off: honeydew/bob-highlights/whats-turned-off.md
       - HeroBoB+:
           - honeydew/herobob-plus/index.md
           - Forge Table:
@@ -110,6 +112,8 @@ nav:
               - Leafy Liberator: honeydew/herobob-plus/enchantments/leafy-liberator.md
               - Tree Capitator: honeydew/herobob-plus/enchantments/tree-capitator.md
               - Auto Replant: honeydew/herobob-plus/enchantments/auto-replant.md
+              - Vein Excavator: honeydew/herobob-plus/enchantments/vein-excavator.md
+              - Boring: honeydew/herobob-plus/enchantments/boring.md
               - Bane Spike: honeydew/herobob-plus/enchantments/bane-spike.md
           - Trees & Saplings:
               - honeydew/herobob-plus/trees-and-saplings/index.md
@@ -120,6 +124,10 @@ nav:
           - Recipes: honeydew/herobob-plus/recipes.md
           - Durability Display: honeydew/herobob-plus/durability-display.md
           - Bug Fixes: honeydew/herobob-plus/bug-fixes.md
+      - Pence & the Guild Hall:
+          - honeydew/economy/index.md
+          - Effect Boosts: honeydew/economy/effect-boosts.md
+          - Casino: honeydew/economy/casino.md
       - Hero Bosses:
           - honeydew/hero-bosses/index.md
       - FAQ: honeydew/faq.md

@@ -1,6 +1,6 @@
 # Honeydew Homes
 
-Honeydew Homes is our Minecraft Bedrock survival server. It runs Better on Bedrock plus HeroBoB+, our own addon that adds new gear, a revamped Forge Table, new enchantments, custom saplings, and a lot of fixes.
+Honeydew Homes is our Minecraft Bedrock survival server. It's a big, modded world: about 17,000 blocks across, packed with new biomes, gear, and bosses, all on Bedrock so console and mobile players can join in.
 
 | | |
 |---|---|
@@ -10,6 +10,44 @@ Honeydew Homes is our Minecraft Bedrock survival server. It runs Better on Bedro
 | **World size** | About 17,000 × 17,000 blocks |
 | **Live map** | [Honeydew Homes map](https://heromcbe.github.io/Honeydew-Homes-SMP) |
 | **Status** | Live |
+
+## What Makes Honeydew Different
+
+Honeydew isn't vanilla Minecraft. It runs two addons that work together:
+
+<div class="grid cards" markdown>
+
+-   **Better on Bedrock**
+
+    ---
+
+    New biomes, ores, mobs, bosses, backpacks, and gear tiers. Our highlights cover what you need to know on Honeydew.
+
+    [Better on Bedrock Highlights](bob-highlights/index.md)
+
+-   **HeroBoB+ (our own addon)**
+
+    ---
+
+    Built for Honeydew: new gear, a Forge Table overhaul, new enchantments, custom tree saplings, and lots of fixes.
+
+    [HeroBoB+ guide](herobob-plus/index.md)
+
+</div>
+
+### Highlights
+
+- **Two new top-tier gear sets:** Corstinite and Enderite, with full-set armor bonuses
+- **The Forge Table:** build custom pickaxes, forge Firey weapons, and upgrade Stardust gear to Enderite
+- **Throwable spears** that return to you, in every material
+- **New enchantments** like Tree Capitator, Leafy Liberator, and Auto Replant
+- **Plant the custom trees** you find in the world with new saplings
+- **Durability shown on your tools**, so you know when to repair
+- **Hero Boss Arena:** summon Better on Bedrock bosses for Pence and win it back
+- **Pence economy:** sell at the Bank and Mass Sell Station, spend on boosts, bosses, and the Casino
+
+!!! tip "New to Honeydew?"
+    Start with [Getting Started](getting-started.md) for a quick tour of your first day.
 
 ## How to Join
 
@@ -58,12 +96,10 @@ The [Community Rules](../network/community-rules.md) apply here, plus the game r
 - [Returning to the Hub](returning-to-hub.md)
 - [Better on Bedrock Highlights](bob-highlights/index.md)
 - [HeroBoB+](herobob-plus/index.md)
+- [Pence & the Guild Hall](economy/index.md)
 - [Hero Bosses](hero-bosses/index.md)
 - [FAQ](faq.md)
 
-!!! note "Work in progress"
-    We're building out this guide. Pages marked *Coming soon* are on the way.
-
 ---
 
-*Last verified: 2026-09-23*
+*Last verified: 2026-09-28*

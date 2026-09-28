@@ -1,6 +1,9 @@
 # Aethelgard
 
-Aethelgard is our upcoming Minecraft survival server with Java and Bedrock crossplay, a player-run economy, player shops, and land claims.
+Aethelgard is our upcoming Minecraft survival server. Java and Bedrock players share one world, with a player-run economy, player shops, and land claims to protect what you build.
+
+!!! info "Coming soon"
+    Aethelgard hasn't launched yet. Join the [Discord](https://discord.gg/PNdRF6eg5j) to hear about launch day first. The guide pages below will be filled in as launch gets closer.
 
 | | |
 |---|---|
@@ -9,9 +12,66 @@ Aethelgard is our upcoming Minecraft survival server with Java and Bedrock cross
 | **Style** | Survival with economy, shops, land claims |
 | **Status** | Coming soon |
 
+## What to Expect
+
+<div class="grid cards" markdown>
+
+-   **Crossplay**
+
+    ---
+
+    Java and Bedrock players, including console and mobile, share the same world.
+
+    [Bedrock Players](bedrock-players.md)
+
+-   **Player Economy**
+
+    ---
+
+    Earn and spend **Electrum (EP)**, the server's currency.
+
+    [Economy](economy/index.md)
+
+-   **Player Shops**
+
+    ---
+
+    Set up your own shop or buy from other players.
+
+    [Shops](shops/index.md)
+
+-   **Land Claims**
+
+    ---
+
+    Claim your land so your builds are protected.
+
+    [Land Claims](land-claims.md)
+
+-   **Live Map**
+
+    ---
+
+    Explore the world from your browser.
+
+    [Live Map](live-map.md)
+
+-   **Not Pay-to-Win**
+
+    ---
+
+    VIP perks are earned through gameplay, never bought.
+
+    [Ranks & VIP](ranks-and-vip.md)
+
+</div>
+
 ## How to Join
 
-Aethelgard hasn't launched yet. Join the Discord for launch news.
+Aethelgard hasn't launched yet. When it does, you'll join the same way as our other Minecraft servers:
+
+1. Join the Discord and complete onboarding.
+2. Travel from **The Great Hall Hub** using an Aethelgard NPC, or use the details in your onboarding ticket.
 
 [Join the Discord](https://discord.gg/PNdRF6eg5j){ .md-button .md-button--primary }
 
@@ -61,9 +121,6 @@ The [Community Rules](../network/community-rules.md) apply here, plus the game r
 - [Discord Link](discord-link.md)
 - [Returning to the Hub](returning-to-hub.md)
 - [FAQ](faq.md)
-
-!!! note "Work in progress"
-    We're building out this guide. Pages marked *Coming soon* are on the way.
 
 ---
 
