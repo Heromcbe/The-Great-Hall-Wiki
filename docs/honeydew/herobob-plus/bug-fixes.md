@@ -4,7 +4,6 @@ HeroBoB+ fixes a lot of what was broken in Better on Bedrock. Here are the fixes
 
 ## Player & Combat
 
-- **Player animations restored:** eating, swimming, sneaking, and attack swings work normally again.
 - **Amethyst armor:** the full-set knockback bonus now works.
 - **Custom tools lose durability properly:** Better on Bedrock and HeroBoB+ tools now wear down like vanilla tools, and Unbreaking works on them.
 
