@@ -6,7 +6,7 @@
 |---|---|---|
 | **Overworld** | 10,000 × 10,000 blocks (5,000 in each direction from 0, 0) | Yes |
 | **The Nether** | 1,250 × 1,250 blocks (matches the Overworld at the normal 8:1 scale) | No, the Nether is shared |
-| **The End** | 2,500 × 2,500 blocks | Yes |
+| **The End** | 10,000 × 10,000 blocks (5,000 in each direction from 0, 0) | Yes |
 
 See [Land Claims](land-claims.md).
 
