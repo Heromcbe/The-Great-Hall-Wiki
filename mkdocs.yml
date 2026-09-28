@@ -60,6 +60,9 @@ markdown_extensions:
 
 exclude_docs: |
   honeydew/bob-highlights/whats-turned-off.md
+  aethelgard/economy/platinum.md
+  aethelgard/economy/taxes.md
+  aethelgard/shops/trade-tokens.md
 
 nav:
   - Home:
@@ -138,14 +141,13 @@ nav:
       - Commands: aethelgard/commands.md
       - Economy:
           - aethelgard/economy/index.md
-          - Platinum: aethelgard/economy/platinum.md
-          - Taxes: aethelgard/economy/taxes.md
+          - Aethelgard Coins: aethelgard/economy/coins.md
       - Shops:
           - aethelgard/shops/index.md
-          - Buying: aethelgard/shops/buying.md
+          - Buying & Selling: aethelgard/shops/buying.md
           - Running a Shop: aethelgard/shops/running-a-shop.md
-          - Trade Tokens: aethelgard/shops/trade-tokens.md
       - Land Claims: aethelgard/land-claims.md
+      - Graves: aethelgard/graves.md
       - Ranks & VIP: aethelgard/ranks-and-vip.md
       - World & Biomes: aethelgard/world-and-biomes.md
       - Live Map: aethelgard/live-map.md

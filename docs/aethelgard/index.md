@@ -3,13 +3,15 @@
 Aethelgard is our upcoming Minecraft survival server. Java and Bedrock players share one world, with a player-run economy, player shops, and land claims to protect what you build.
 
 !!! info "Coming soon"
-    Aethelgard hasn't launched yet. Join the [Discord](https://discord.gg/PNdRF6eg5j) to hear about launch day first. The guide pages below will be filled in as launch gets closer.
+    Aethelgard hasn't launched yet. Join the [Discord](https://discord.gg/PNdRF6eg5j) to hear about launch day first. The guide below is ready now, so you can plan ahead.
 
 | | |
 |---|---|
 | **Game** | Minecraft |
 | **Platform** | Java + Bedrock (including console) |
 | **Style** | Survival with economy, shops, land claims |
+| **World size** | About 10,000 × 10,000 blocks at launch |
+| **Live map** | [Aethelgard map](http://map.thegreathall.world:8088/) |
 | **Status** | Coming soon |
 
 ## What to Expect
@@ -28,7 +30,7 @@ Aethelgard is our upcoming Minecraft survival server. Java and Bedrock players s
 
     ---
 
-    Earn and spend **Electrum (EP)**, the server's currency.
+    Earn and spend **Electrum (EP)**, with physical coins for trading at shops.
 
     [Economy](economy/index.md)
 
@@ -115,6 +117,7 @@ The [Community Rules](../network/community-rules.md) apply here, plus the game r
 - [Economy](economy/index.md)
 - [Shops](shops/index.md)
 - [Land Claims](land-claims.md)
+- [Graves](graves.md)
 - [Ranks & VIP](ranks-and-vip.md)
 - [World & Biomes](world-and-biomes.md)
 - [Live Map](live-map.md)
@@ -124,4 +127,4 @@ The [Community Rules](../network/community-rules.md) apply here, plus the game r
 
 ---
 
-*Last verified: 2026-09-23*
+*Last verified: 2026-09-28*
